@@ -18,7 +18,8 @@ LibraryHub is a responsive and user-friendly web application designed to provide
 *Description: A simple and modern homepage with a header, navigation bar, search bar, and featured books section.*
 
 ### Book Catalog
-![Uploading image.png…]()
+<img width="1187" alt="image" src="https://github.com/user-attachments/assets/68552f60-b02f-4ec0-9986-e533542ec31c" />
+
 
 *Description: A categorized catalog to explore books by genres or themes.*
 
